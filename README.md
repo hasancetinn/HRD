@@ -17,11 +17,24 @@ Veritabanı için
 
 yapılması gerekmektedir.
 
+php artisan serve
+
+http://127.0.0.1:8000/api/auth/login
+
 ```
 username:hcetin@email.com
-password:password
+password:123456
 ```
+Tüm Siparişleri listelemek için 
+
+http://127.0.0.1:8000/api/order
+
+OrderCode göre arama
+
+http://127.0.0.1:8000/api/order/{orderCode}
 
 postman https://www.getpostman.com/collections/7af7fbd632ee5cc5fc71
+
+
  
  
