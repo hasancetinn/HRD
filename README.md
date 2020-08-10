@@ -23,7 +23,7 @@ http://127.0.0.1:8000/api/auth/login
 
 ```
 username:hcetin@email.com
-password:123456
+password:password
 ```
 Tüm Siparişleri listelemek için 
 
